@@ -1,4 +1,4 @@
-package Enum;
+package Enum.Loiane;
 
 public class CalculadoraEnum 
 {
